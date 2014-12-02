@@ -1,2 +1,3 @@
-izzyleung.github.io
+Sweet Blog O' Mine
 ===================
+This is the blog for Izzy Leung.
