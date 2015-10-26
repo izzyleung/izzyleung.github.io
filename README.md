@@ -1,3 +1,3 @@
 Sweet Blog O' Mine
 ===================
-This is the blog for Izzy Leung.
+This is the blog for Xiao Liang.
