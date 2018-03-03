@@ -1,3 +1,3 @@
-Sweet Blog O' Mine
+Homepage
 ===================
-This is the blog for Xiao Liang.
+Ciao, Xiao.
