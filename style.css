@@ -1,0 +1,20 @@
+table {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+td#before {
+    width: 10%;
+}
+
+td#name {
+    width: 90%;
+    font-size: 4em;
+    font-family: Helvetica, sans-serif;
+}
+
